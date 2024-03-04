@@ -1,0 +1,39 @@
+[
+
+    ,{
+      "title"			: "Blogs",
+      "link"			: "https://hcanyuceel.github.io/blogs/",
+      "excerpt"		: "Blogs"
+    }
+  
+    ,{
+      "title"			: "Reports & Whitepapers",
+      "link"			: "https://hcanyuceel.github.io/reports/",
+      "excerpt"		: "Reports & Whitepapers"
+   }
+  
+    ,{
+      "title"			: "Conferences & Webinars",
+      "link"			: "https://hcanyuceel.github.io/webinars/",
+      "excerpt"		: "Conferences & Webinars"
+   }
+  
+    ,{
+      "title"			: "Courses",
+      "link"			: "https://hcanyuceel.github.io/courses/",
+      "excerpt"		: "Courses"
+   }
+  
+   ,{
+      "title"			: "Media",
+      "link"			: "https://hcanyuceel.github.io/media/",
+      "excerpt"		: "Media"
+   }
+  
+    ,{
+      "title"			: "Contact",
+      "link"			: "https://hcanyuceel.github.io/contact/",
+      "excerpt"		: "Contact"
+    }
+  
+]

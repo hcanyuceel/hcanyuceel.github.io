@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Hüseyin Can Yüceel</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="https://hcanyuceel.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://hcanyuceel.github.io" />
+<updated>2023-10-20T00:14:46-07:00</updated>
+<id>https://hcanyuceel.github.io/</id>
+<author>
+  <name>Hüseyin Can Yüceel</name>
+  <uri>https://hcanyuceel.github.io/</uri>
+  <email>hcanyuceel@gmail.com</email>
+</author>
+
+</feed>
